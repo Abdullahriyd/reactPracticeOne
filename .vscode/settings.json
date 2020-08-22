@@ -1,0 +1,10 @@
+{
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}

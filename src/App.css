@@ -168,3 +168,14 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+.boxButton {
+  box-sizing: border-box;
+  background-color: #9c88ff;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  font-size: 16px ;
+  margin: 10px,0,10px;
+  width: 80px ;
+  height: 80px ;
+}
